@@ -1,0 +1,8 @@
+def cyclone.web.RequestHandler.get_argument(
+    self,
+    name,
+    default=...,
+    strip=...) -> TaintSource[CustomUserControlled]: ...
+
+
+def redis.client.Redis.get(self, name: TaintSink[SessionFixation]): ...

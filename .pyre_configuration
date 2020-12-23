@@ -1,0 +1,13 @@
+{
+  "source_directories": [
+    "."
+  ],
+  "taint_models_path": [
+    "."
+  ],
+  "search_path": [
+    "/usr/local/lib/python3.8/dist-packages/"
+  ],
+  "exclude": [
+  ]
+}
